@@ -40,7 +40,6 @@ Proof-of-work compiled June 2026. A complete growth audit of [humantic.ai](https
 
 ## Methodology
 
-- **FLOW Framework** © Daniel Agrici, CC BY 4.0 — [github.com/AgriciDaniel/flow](https://github.com/AgriciDaniel/flow)
 - **Revenue formula** — Sprinto Growth Audit (May 2026): `visits × page→demo% × demo→close% × ACV`
 - **CRO scoring** — [gtm-predictor](https://github.com/chaitanyagatreddi/gtm-predictor) (gpt-4o-mini, Baymard/NN/g/Unbounce/HubSpot rubric)
 - **Crawl** — Firecrawl, 40 pages, June 2026
